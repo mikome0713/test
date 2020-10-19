@@ -547,7 +547,7 @@ footer {
     width: 33%;
     padding: 0 2px; }
   #gli .slider iframe {
-    width: 140px;
+    width: 120px;
     height: 100px; }
   #runner .runner {
     margin-top: -210px; }
@@ -575,7 +575,10 @@ footer {
   #fixed-w {
     margin: 100px auto; }
   #gli .gli_content {
-    margin-top: 0; } }
+    margin-top: 0; }
+  #gli .slider iframe {
+    width: 110px;
+    height: 100px; } }
 
 @media only screen and (max-width: 375px) {
   #gli .gli_content span img {
